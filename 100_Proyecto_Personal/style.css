@@ -1,5 +1,22 @@
 
 
-.Logo {
-    width: 100px;
+.logomexacar {
+    width: 120px;
 }
+
+header {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.centro {
+    display: flex;
+    padding-left: 10px;
+}
+
+.lista {
+    display: flex;
+
+}
+
