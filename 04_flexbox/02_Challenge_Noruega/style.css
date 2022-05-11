@@ -1,0 +1,69 @@
+
+.Caja {
+    width: 800px;
+    height: 500px;
+    border: 2px black solid;
+    background-color: #021F59;
+    display: flex;
+    flex-direction: row;
+}
+.Caja_1 {
+    /* border: 2px black solid; */
+    width: 50%;
+    height: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+.CajaArriba_1 {
+    width: 70%;
+    height: 43%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.CajaAbajo_1 {
+    width: 70%;
+    height: 43%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.CajaArriba_2 {
+    width: 110%;
+    height: 43%;
+    background-color: white;
+    display: flex;
+    justify-content: end;
+}
+.CajaAbajo_2 {
+    width: 110%;
+    height: 43%;
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.Caja_2 {
+    /* border: 2px black solid; */
+    width: 50%;
+    height: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.Cajitas_1 {
+    width: 80%;
+    height: 83%;
+    background-color: #BF0637;
+    display: flex;
+}
+.Cajitas_2 {
+    width: 87%;
+    height: 83%;
+    background-color: #BF0637;
+    display: flex;
+}

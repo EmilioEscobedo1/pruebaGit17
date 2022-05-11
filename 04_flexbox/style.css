@@ -1,0 +1,23 @@
+
+
+/* El contenedor mayor es el que va la indicar 
+la posicion de los elementos de su inetrior  */
+.main {
+    border: 2px solid black;
+    height: 500px;
+    /* width: 500px; */
+    /* Primer paso es usar display: flex */
+    display: flex;
+    /* mover los elementos en el eje horizontal */
+    justify-content: flex-end;
+    /* mover los elementos en el eje Y o de forma vertical */
+    align-items: center;
+    /* cambiar los elementos de fila a columna */
+    flex-direction: column;
+}
+
+.secundary {
+    border: 2px red solid;
+    width: 25%;
+    height: 25%;
+}
