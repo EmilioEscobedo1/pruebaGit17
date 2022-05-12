@@ -22,3 +22,46 @@ nav {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+.boobafet{
+    background-color: rgb(193, 208, 207);
+    padding: 40px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+
+}
+
+#info {
+    display: flex;
+}
+
+.r2d2{
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f1f1f1;
+    text-align: justify;
+}
+
+article {
+    padding: 20px;
+    width: 30%;
+    float: right;
+    background-color: #ccc;
+    border: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.stoorm {
+    width: 100%;
+    border: black;
+    /* border-radius: 15px; */
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
