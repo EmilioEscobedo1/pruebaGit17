@@ -1,0 +1,57 @@
+.padre {
+    background-color: aqua;
+    height: 500px;
+    width: 80%;
+}
+
+.hijo1{
+background-color: black;
+height: 250px;
+width: 250px;
+float: left;
+}
+.hijo2{
+    background-color: red;
+    height: 350px;
+    width: 350px;   
+    float: right;
+}
+.hijo3{
+    background-color: blue;
+    height: 450px;
+    width: 450px;   
+    clear: both;
+}
+.hijo4{
+    background-color: green;
+    height: 50px;
+    width: 50px;    
+    clear: both;
+}
+
+.anakin {
+    background-color: aqua;
+    height: 500px;
+    width: 80%;
+}
+
+.luk1{
+    background-color: black;
+    height: 50px;  
+    width: 50px;
+}
+.luk2{
+    background-color: red;
+    height: 50px;
+    width: 50px;   
+}
+.luk3{
+    background-color: blue;
+    height: 50px;
+    width: 50px;   
+}
+.luk4{
+    background-color: green;
+    height: 50px;
+    width: 50px;   
+}
